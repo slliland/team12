@@ -24,7 +24,7 @@ public class QueryProcessor {
 
         // Handle 'your name' query
         if (query.contains("your name")) {
-            return "Jason2";
+            return "Team12";
         }
 
         // Handle arithmetic operations
